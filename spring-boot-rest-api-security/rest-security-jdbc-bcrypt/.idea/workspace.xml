@@ -76,12 +76,13 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/C/SpringBoot3/spring-boot-rest-api-security/rest-security-jdbc-bcrypt",
+    "last_opened_file_path": "D:/Nhạc/javaweb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "project.propCompiler",
+    "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -121,6 +122,7 @@
       <workItem from="1709280078780" duration="3795000" />
       <workItem from="1709285237784" duration="1023000" />
       <workItem from="1709286700966" duration="697000" />
+      <workItem from="1709392892396" duration="11000" />
     </task>
     <servers />
   </component>
