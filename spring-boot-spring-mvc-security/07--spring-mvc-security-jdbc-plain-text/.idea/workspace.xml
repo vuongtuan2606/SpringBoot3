@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a917a7-eff8-4ba6-9c1f-c25d92ffa0cc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dMi54saOJIDeHNcCLDZQfa6VQO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/C/SpringBoot3/spring-boot-spring-mvc-security/07--spring-mvc-security-jdbc-plain-text",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "spring.configuration.checksum": "4f5bd6f7fcf3f1559862c083e8928081",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\C\SpringBoot3\spring-boot-spring-mvc-security\05-security-user-roles-restrict-access\src\main\resources\templates" />
+      <recent name="D:\C\SpringBoot3\spring-boot-spring-mvc-security\01-security-in-memory-users - Sao chép\src\main\resources\templates" />
+      <recent name="D:\C\SpringBoot3\spring-boot-spring-mvc-security\01-security-in-memory-users - Sao chép\src\main\java\com\tuandev\springboot\demosecurity\controller" />
+      <recent name="D:\C\SpringBoot3\spring-boot-spring-mvc-security\demosecurioty\src\main\java\com\tuandev\springboot\demosecurity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemosecuriotyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="demosecurioty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuandev.springboot.demosecurity.DemosecuriotyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a917a7-eff8-4ba6-9c1f-c25d92ffa0cc" name="Changes" comment="" />
+      <created>1709824163154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709824163154</updated>
+      <workItem from="1709824163800" duration="1638000" />
+      <workItem from="1709827247067" duration="109000" />
+      <workItem from="1709827387843" duration="1101000" />
+      <workItem from="1709829122740" duration="463000" />
+      <workItem from="1709829665361" duration="372000" />
+      <workItem from="1709830086681" duration="790000" />
+      <workItem from="1709830925717" duration="1105000" />
+      <workItem from="1709832724035" duration="248000" />
+      <workItem from="1709833375230" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
