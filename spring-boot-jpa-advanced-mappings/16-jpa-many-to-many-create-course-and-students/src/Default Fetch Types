@@ -1,0 +1,24 @@
+Mapping          ||      Default Fetch Type
+@OneToOne                FecthType.EAGER
+
+@OneToMany               FecthType.LAZY
+
+@ManyToOne               FecthType.EAGER
+
+@ManyToMany              FecthType.LAZY
+
+============================================
+
+CascadeType.REMOVE
+
+@ManyToOne: cấu hình cascade với `CascadeType.REMOVE` ở đối tượng con.
+Khi xóa đối tượng cha thì đối tượng con sẽ không bị xóa .
+Việc xóa đối tượng cha chỉ đơn giản xóa liên kết giữa đối tượng cha và đối tượng con
+ (thông qua khóa ngoại)
+
+@OneToMany: cấu hình cascade với `CascadeType.REMOVE` ở đối tượng cha.
+khi xóa đối tượng con thì đối tượng cha cũng bị xóa theo .
+Việc này đảm bảo rằng khi xóa một đối tượng cha, tất cả các đối tượng con liên quan cũng sẽ bị xóa.
+
+Nếu không cấu hình cấu hình `CascadeType.REMOVE` ở cả `@ManyToOne` và `@OneToMany`
+--> Xóa đối tượng con cần xóa liên kết giữu các đối tượng trước
