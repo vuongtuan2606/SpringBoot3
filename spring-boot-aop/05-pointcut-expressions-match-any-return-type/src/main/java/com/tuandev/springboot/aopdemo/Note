@@ -1,0 +1,24 @@
+=============AOP Terminology=============
+
+Aspect: module of code for a cross-cutting concern( logging, sercutiry...)
+
+Advice: what action is taken and when is should be applied
+
+Join Point: when to apply code during program execution
+
+Pointcut: A predicate expression for where advice should be applied
+
+
+=============Advice Type===============
+
+Before advide: run before the method
+
+After fially advice: run after the method(finally)
+
+After rerturning advice: run after the mothod( success execution)
+
+After throwing advice: run adter method( if exception thrown)
+
+Around advice: run before and adter method
+
+

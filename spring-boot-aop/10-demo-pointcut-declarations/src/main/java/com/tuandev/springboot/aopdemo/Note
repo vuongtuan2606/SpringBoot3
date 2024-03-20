@@ -1,0 +1,35 @@
+=============AOP Terminology=============
+
+Aspect: module of code for a cross-cutting concern( logging, sercutiry...)
+
+Advice: what action is taken and when is should be applied
+
+Join Point: when to apply code during program execution
+
+Pointcut: A predicate expression for where advice should be applied
+
+
+=============Advice Type===============
+
+Before advide: run before the method
+
+After fially advice: run after the method(finally)
+
+After rerturning advice: run after the mothod( success execution)
+
+After throwing advice: run adter method( if exception thrown)
+
+Around advice: run before and adter method
+
+=============Parameter Pattern Windcards==================
+
+For param-pattern
+
+() - matches a method with no arguments
+(*) - matches a method with one argument of any type
+(..) - matches a method with - or more arguments of any type
+
+============== Benifits of Pointcut Declarations=============
+- easily reuse pointcut expressions
+- Update pointcut in one location
+- Can also share and combine pointcut expressions
